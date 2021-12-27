@@ -1,4 +1,4 @@
-### Implemeting Lakehouse Architecture to analyse health device data
+### Implementing Lakehouse Architecture to analyse health device data
 
 > Lakehouse provides many additional features on top of data lake like transaction support (ACID properties), schema enforcement and governance, end-to-end streaming, BI support etc.
 
